@@ -26,3 +26,5 @@ https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/?ref=leftbar-rightba
 https://www.geeksforgeeks.org/rearrange-given-array-place/
 
 https://www.geeksforgeeks.org/rearrange-array-arrj-becomes-arri-j/
+
+https://www.geeksforgeeks.org/number-swaps-sort-adjacent-swapping-allowed/
