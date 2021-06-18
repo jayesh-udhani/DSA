@@ -11,6 +11,8 @@ I have implements below ones :
 - LFU Cache
 - Knuth Morris Pratt Algorithm
 - Trie
+- Maximum Product Subarray
+- Insert Delete GetRandom O(1) - Duplicates allowed
 
 
 
